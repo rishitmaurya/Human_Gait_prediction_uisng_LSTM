@@ -4,3 +4,5 @@
 /thigh_gyro
 /Final_data.csv
 /.ipynb_checkpoints/
+/GRU_sensor_model.h5
+/wavenet_sensor_model.h5
